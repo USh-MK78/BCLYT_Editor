@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCLYT Editor", "BCLYT Editor\BCLYT Editor.csproj", "{8B5F0F86-09A6-4D55-BC18-B99ADCE41DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLYTLibrary", "CLYTLibrary\CLYTLibrary.csproj", "{7ABED1BD-9943-4ADB-A629-6BF7022A03EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5F0F86-09A6-4D55-BC18-B99ADCE41DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5F0F86-09A6-4D55-BC18-B99ADCE41DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5F0F86-09A6-4D55-BC18-B99ADCE41DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5F0F86-09A6-4D55-BC18-B99ADCE41DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABED1BD-9943-4ADB-A629-6BF7022A03EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABED1BD-9943-4ADB-A629-6BF7022A03EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABED1BD-9943-4ADB-A629-6BF7022A03EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABED1BD-9943-4ADB-A629-6BF7022A03EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D447D47-6B3D-44C3-AD9C-A3E61AE1B70D}
+	EndGlobalSection
+EndGlobal
